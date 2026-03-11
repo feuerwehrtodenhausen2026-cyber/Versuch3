@@ -42,7 +42,7 @@
         ageClass: formData.get('ageClass')
       };
 
-      fetch('https://script.google.com/macros/s/AKfycbypjVQXSCn358KRqBjIirTvRW9bpsuZ99Z-ea2LWK7Jwx90yfsHLv7QMa8bqnx_upWhTw/exec', {
+      fetch('https://script.google.com/macros/s/AKfycbzwiIexzckCvTNeBK5tXbPMSJbP_fXHrG_Gi6g2QYe3/dev', {
         method: 'POST',
         body: JSON.stringify(data),
         headers: {
