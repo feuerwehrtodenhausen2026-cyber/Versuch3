@@ -1,5 +1,5 @@
-# Versuch3
-<!DOCTYPE html>
+# Anmeldung für die Geländespiele
+
 <html lang="de">
 <head>
   <meta charset="UTF-8" />
